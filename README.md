@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Ibrahim!
 
-<!--
-**ibrahimoa/ibrahimoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Electrical Engineer** working in in **Embedded Software Development**, specializing in **low-level programming**, **security systems**, and **cryptography**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- **Programming Languages**: Proficient in **C**, **C++14** and **Python**, with experience in **Assembly** for RISC-V and ARM architectures.
+- **Development Focus**: Low-level security, cryptographic systems, and operating system development.
+- **Tools & Frameworks**: Experience with **Linux**, **GCC**, **CMake**, **Pytest**, **Git**, etc.
+
+---
+
+## 💻 Competitive Programming
+- **HackerRank**: [My Profile](https://www.hackerrank.com/profile/ibrahimoa)  
+- **LeetCode**: [My Profile](https://leetcode.com/u/ibrahimoa/)
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories or reach out to discuss opportunities and collaborations.
